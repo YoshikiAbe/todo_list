@@ -18,5 +18,8 @@
   "homepage": "https://github.com/YoshikiAbe/todo_list#readme",
   "dependencies": {
     "vue": "^2.2.6"
+  },
+  "devDependencies": {
+    "browserify": "^14.3.0"
   }
 }
