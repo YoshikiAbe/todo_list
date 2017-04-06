@@ -20,6 +20,9 @@
       ]
     ]
   },
+  "browser": {
+    "vue": "./node_modules/vue/dist/vue.common"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/YoshikiAbe/todo_list.git"
