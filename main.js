@@ -8,6 +8,6 @@ new Vue({
   el: '#app',
   data: task_list,
   components: {
-    MyMessage: require('./components/task_list.vue')
+    MyTaskList: require('./components/task_list.vue')
   }
 });
