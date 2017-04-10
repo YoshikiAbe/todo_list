@@ -43,6 +43,7 @@
     "browserify": "^14.3.0",
     "gulp": "^3.9.1",
     "vinyl-source-stream": "^1.1.0",
-    "vueify": "^9.4.1"
+    "vueify": "^9.4.1",
+    "vuex": "^2.2.1"
   }
 }
