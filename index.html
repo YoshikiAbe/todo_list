@@ -5,9 +5,16 @@
     <meta charset="utf-8">
   </head>
   <body>
-    <div id='app'>
+    <!-- <div id='app'>
       <h2>{{title}}</h2>
       <my-task-list></my-task-list>
+    </div> -->
+    <div id='count'>
+      <p>{{count}}</p>
+      <div>
+        <button @click="increment">+</button>
+        <button @click="decrement">-</button>
+      </div>
     </div>
   </body>
   <script type="text/javascript" src="./bundle.js"></script>
